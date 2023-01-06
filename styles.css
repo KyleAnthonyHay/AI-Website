@@ -17,18 +17,18 @@
     z-index: 999; /*ensure that navbar is always at the top and not constructed*/
 }
 
-.navbar__container{
+.navbar__container {
     display: flex;
     justify-content: space-between;
     height: 80px;
     z-index: 1;
     width: 100%;
-    max-width: 1300px;
+    max-width: 1600px;
     margin: 0 auto;/*top and bottom is 0, left and right is 0 bc of auto note that 0 0 0 0 is top LR and bottom LR*/
     padding: 0 50px;
 }
 
-#navbar__logo{
+#navbar__logo {
     background-color: #ff8177;
     background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
     background-size: 100%;
@@ -87,7 +87,7 @@
     border: none;
     outline: none;
     border-radius: 4px;
-    background-color: #f77062;
+    background: #f77062;
     color: #fff;
 }
 
