@@ -1,5 +1,5 @@
 # AI-Website
-HTML/CSS/JAVACRIPT Website
+A clean HTML/CSS/JAVACRIPT website
 
 ## Description
 
